@@ -1,0 +1,7 @@
+{
+  "name": "Kisan Mitra - AI Crop & Soil Doctor",
+  "description": "AI agricultural advisor for farmers with crop disease detection, soil analysis, pesticide dosage, pest control, crop recommendations, and voice assistance in regional languages.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
